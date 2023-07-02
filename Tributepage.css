@@ -1,0 +1,77 @@
+#Styling
+{
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    border: 8px solid black;
+    background-color: #e5e5e5;
+}
+#Contentstyling
+{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.Imagestyling
+{
+    width: 300px;
+    height: 320px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.Topstyling
+{
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.Topstyling h1
+{
+    font-size: 50px; 
+    font-weight: bold; 
+    color: black;
+    margin-bottom: 0%;
+}
+.Topstyling h5
+{
+    font-size: 30px; 
+    text-align: end;
+    margin-top: auto;
+}
+.Aboutstyling
+{
+    margin-top: 50px;
+}
+.Aboutstyling h2
+{
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.Aboutstyling p
+{
+    font-size: 20px;
+    line-height: 1.3;
+    letter-spacing: 1.3;
+    word-spacing: 1.3;
+    text-align: justify;
+}
+.Bottomstyling
+{
+    margin-top: 50px;
+    margin: 50px 0px;
+}
+.Bottomstyling h3
+{
+    margin-bottom: 20px;
+}
+.Bottomstyling ul
+{
+    margin-left: 30px;
+}
+.Bottomstyling li
+{
+    margin-bottom: 12px;
+    font-style: italic;
+}
